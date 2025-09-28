@@ -1,0 +1,10 @@
+<html>
+<banner>
+ img src="Perayaan utama Banner.png" style="height:25%; width:100%;">
+</banner>
+<frameset cols="30%,*" frameborder=" yes" border="3" bordercolor="light pink">
+<frame>
+<frame src="Pengenalan1.html">
+<frame>
+</frameset>
+</html>

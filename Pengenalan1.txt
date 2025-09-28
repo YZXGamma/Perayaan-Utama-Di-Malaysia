@@ -1,0 +1,18 @@
+<html>
+<head> 
+<title> Perayaan Utama </title>
+</head>
+<style> 
+     body {
+            background-color: #f0f8ff; /* AliceBlue */
+        }
+ </style>
+<h1> Pengenalan </h1>
+<p> Malaysia merupakan sebuah negara yang merayakan pelbagai perayaan mengikut agama dan
+suku kaum.Malaysia mempunyai 3 jenis perayaan yang paling utama iaitu Hari Raya, Deepavali dan
+Tahun Baharu Cina.Setiap satunya mencirikan bangsa dan agama yang dianuti.</p>
+<p> Ini merupakan bukti bahawa Malaysia merupakan sebuah negara yang harmoni dan muhibah.Semua
+kaum dan agama berkongsi nilai perparduan yang sama.Malaysia menjadi model perpaduan bangsa dan negara.</p>
+<img src="Kaum.html" style="height:50%; width:100%;">
+</body>
+</html>
